@@ -1,13 +1,17 @@
 INGREDIENTES:
+<<<<<<< HEAD
+- Farinha
+- Ovos
+- Leite
+- Fermento
+- Açúcar
+- Óleo
+- Achocolatado em pó
 
 
-
-
-
-
+=======
 
 PREPARO:
-
 Separar os ingredientes na bancada
 Ligar o forno para pré-aquecer
 
@@ -19,3 +23,4 @@ untar uma forma
 despejar a mistura na forma
 
 levar ao forno por 20minutos a 230graus
+
