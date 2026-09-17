@@ -1,5 +1,4 @@
 INGREDIENTES:
-<<<<<<< HEAD
 - Farinha
 - Ovos
 - Leite
@@ -7,9 +6,6 @@ INGREDIENTES:
 - Açúcar
 - Óleo
 - Achocolatado em pó
-
-
-=======
 
 PREPARO:
 Separar os ingredientes na bancada
